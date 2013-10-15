@@ -1,0 +1,59 @@
+<script type='text/javascript'>
+//<![CDATA[
+<!-- 
+document.writeln(" <!Doctype html> "); 
+document.writeln(" <HTML> "); 
+document.writeln(" <head> "); 
+document.writeln(" 	 <title> Web <\/title>  "); 
+document.writeln(" 		<h1 align=\"center\" > Sistema de Facturacion Web para Confecciones y Mini-papeleria FM <\/h1> <\/br> "); 
+document.writeln("      "); 
+document.writeln(" <\/head> "); 
+document.writeln(" <body background=\"imagen.jpg\"> "); 
+document.writeln(" 		 "); 
+document.writeln(" 			<li> Inicio<\/li> "); 
+document.writeln(" 			<li> Acerca de <\/li> "); 
+document.writeln(" 			<li> Contactos<\/li> <\/br> "); 
+document.writeln(" 		<\/ul> "); 
+document.writeln(" 			<section> "); 
+document.writeln(" 	<p> Aqui veremos un video <\/p> <\/br> "); 
+document.writeln(" 	 "); 
+document.writeln(" 	<video width=\"400px\" Height=\"200px\" controls >  "); 
+document.writeln(" 	<source src= \"video.mp4\" <\/source> "); 
+document.writeln(" 	<\/video>  "); 
+document.writeln(" 	<\/br> "); 
+document.writeln(" 	  Da click aqui para reproducir la musica> <\/br> "); 
+document.writeln(" 	 <\/br> "); 
+document.writeln(" 	<audio controls=\"controls\"> "); 
+document.writeln(" 	<source src=\" C:\Users\KrenPC\Desktop\musica/Roar.mp3\" type=\"audio/mp3\"> "); 
+document.writeln("     <source src=\" C:\Users\KarenPC\Desktop\musica/Roar.ogg \" type=\"audio/ogg\">	 "); 
+document.writeln(" 	<\/audio> "); 
+document.writeln(" 	 "); 
+document.writeln(" 	 "); 
+document.writeln(" 	<article> <\/br> "); 
+document.writeln(" 	Venta de ropa de pesca al precio más económico<\/br>  "); 
+document.writeln("     Del mercado, tenemos buzos, calentadores, licras,<\/br> "); 
+document.writeln("     Guantes, chompas, impermeables, navajas etc<\/br> "); 
+document.writeln(" 	   Propietaria Gloria Mero <\/br> "); 
+document.writeln(" 	 "); 
+document.writeln("  "); 
+document.writeln(" 	<\/article> "); 
+document.writeln(" 	 "); 
+document.writeln(" 	<p> "); 
+document.writeln(" 	 Esto es un enlace  "); 
+document.writeln(" 	 <\/br> <a href=\"http://codigoprogramacion.com\"> clickaqui <\/a> "); 
+document.writeln(" 	<\/p> <\/br> "); 
+document.writeln(" 	<p> Aca veremos una imagen "); 
+document.writeln(" 	<\/p> "); 
+document.writeln(" 	<img src=\"Paisaje.jpg\" >  "); 
+document.writeln(" 	<\/img> "); 
+document.writeln(" 	<img src=\"imagen2.gif\" >  "); 
+document.writeln(" 	<\/img> "); 
+document.writeln(" 	 "); 
+document.writeln(" 	 "); 
+document.writeln(" 	<\/section> "); 
+document.writeln(" <\/body> "); 
+document.writeln(" <\/html> "); 
+document.writeln(" <\/body>  ");
+ // -->
+//]]>
+</script>
